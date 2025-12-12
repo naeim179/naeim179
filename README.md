@@ -1,4 +1,3 @@
-<p align="center">
 <details open>
   <summary><b>🎸 Pixel Guitar Mode</b></summary>
 
@@ -9,7 +8,7 @@
   <!-- END: animated svg -->
 
 </details>
-</p>
+
 
 <h1 align="center">Ναιμός Μαχητής — Naeem Althabata</h1>
 
