@@ -76,3 +76,19 @@ I constantly learn and strive to improve my skills in cybersecurity and digital 
 - TryHackMe: **NK179**
 - LinkedIn: **naeim-althabata**
 - Instagram: **naeem__althabta**
+- 
+---
+
+ولو بدك **نسخة أغمق + هاكرية أكثر** (أنصحك فيها 😈):
+
+```md
+```txt
+        ___🎸____
+       | 0 1 0  |
+       | 1 0 1  |====|
+       | 0 1 0  |    1 0 1 0
+          /|\        0 1 0 1 1
+          / \     1 0 0 1 0 1
+
+   [ pixel_hacker@github ~ ]$ play --binary
+
