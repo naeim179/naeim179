@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naeim179/naeim179/main/assets/banner.svg" width="900" alt="naeim179 banner" />
+  <img src="assets/banner.gif" width="900" alt="naeim179 pixel banner" />
 </p>
 
 <h1 align="center">Ναιμός Μαχητής — Naeem Althabata</h1>
