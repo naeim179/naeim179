@@ -1,8 +1,26 @@
+```txt
+Initializing Naeem Web Interface...
+
+$ booting system...
+$ loading CTF battles...
+$ loading tools & labs...
+$ applying dark theme...
+$ ready.
+
+███╗   ██╗███╗   ███╗
+████╗  ██║████╗ ████║
+██╔██╗ ██║██╔████╔██║
+██║╚██╗██║██║╚██╔╝██║
+██║ ╚████║██║ ╚═╝ ██║
+╚═╝  ╚═══╝╚═╝     ╚═╝
+
+ΝΜ  |  Naeem_Althabta
+
 # NAEIM179
 
 ## Naeim :)
 
-Cyber Security Student | Red Team Enthusiast  
+Cyber Security Student | blue Team Enthusiast  
 Exploring vulnerabilities, learning every day, and building security tools.
 
 ---
