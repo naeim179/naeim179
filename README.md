@@ -78,17 +78,14 @@ I constantly learn and strive to improve my skills in cybersecurity and digital 
 - Instagram: **naeem__althabta**
 - 
 ---
-
-ولو بدك **نسخة أغمق + هاكرية أكثر** (أنصحك فيها 😈):
-
-```md
 ```txt
-        ___🎸____
-       | 0 1 0  |
-       | 1 0 1  |====|
-       | 0 1 0  |    1 0 1 0
-          /|\        0 1 0 1 1
-          / \     1 0 0 1 0 1
+        🎸
+      O====|
+       |\
+       | \        0 1 0 1 1 0 1
+       |  \     1 0 0 1 0 1 0
+      / \   \  0 1 1 0 1 0 1
+     /___\    1 0 1 0 0 1 0
 
-   [ pixel_hacker@github ~ ]$ play --binary
-
+   Pixel Hacker 🎸
+   Playing binary riffs...
