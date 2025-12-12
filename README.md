@@ -3,22 +3,6 @@
 </p>
 
 
-<h1 align="center">Ναιμός Μαχητής — Naeem Althabata</h1>
-
-<p align="center">
-  <b>CTF Player · Pentester · Cyber Warrior</b><br/>
-  Forensics • Web Challenges • Boot2Root
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CTF-Player-black" />
-  <img src="https://img.shields.io/badge/Pentester-Offensive%20Security-darkred" />
-  <img src="https://img.shields.io/badge/Focus-Forensics%20%7C%20Web%20%7C%20Boot2Root-brightgreen" />
-</p>
-
----
 <p align="center">
   <img src="https://raw.githubusercontent.com/naeim179/naeim179/master/assets/pixel-guitar-hacker.svg" width="900" alt="pixel guitar hacker" />
 </p>
@@ -95,14 +79,6 @@ I constantly learn and strive to improve my skills in cybersecurity and digital 
 
 ---
 
-## 📬 Contact
-- Email: **naeemmohmd8@gmail.com**
-- GitHub: **@naeim179**
-- TryHackMe: **NK179**
-- LinkedIn: **naeim-althabata**
-- Instagram: **naeem__althabta**
-
----
 
 ## 📬 Contact
 - Email: **naeemmohmd8@gmail.com**
