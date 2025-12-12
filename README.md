@@ -1,3 +1,21 @@
+```txt
+Initializing Naeem Web Interface...
+
+$ booting system...
+$ loading CTF battles...
+$ loading tools & labs...
+$ applying dark theme...
+$ ready.
+
+███╗   ██╗███╗   ███╗
+████╗  ██║████╗ ████║
+██╔██╗ ██║██╔████╔██║
+██║╚██╗██║██║╚██╔╝██║
+██║ ╚████║██║ ╚═╝ ██║
+╚═╝  ╚═══╝╚═╝     ╚═╝
+
+ΝΜ  |  Naeem_Althabta
+
 <h1 align="center">Ναιμός Μαχητής — Naeem Althabata</h1>
 
 <p align="center">
