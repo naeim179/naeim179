@@ -1,5 +1,14 @@
 <p align="center">
-  <img src="assets/special-guitar.svg" width="900" alt="Pixel guitarist emitting 0/1" />
+<details open>
+  <summary><b>🎸 Pixel Guitar Mode</b></summary>
+
+  <!-- START: animated svg -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="900" height="260" shape-rendering="crispEdges">
+    <!-- الصق هنا نفس كود الـSVG كامل اللي أعطيتك إياه -->
+  </svg>
+  <!-- END: animated svg -->
+
+</details>
 </p>
 
 <h1 align="center">Ναιμός Μαχητής — Naeem Althabata</h1>
