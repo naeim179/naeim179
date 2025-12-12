@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naeim179/naeim179/main/assets/banner.gif" width="900" />
+  <img src="https://raw.githubusercontent.com/naeim179/naeim179/master/assets/pixel-guitar-hacker.svg" width="900" alt="pixel guitar hacker" />
 </p>
 
 
