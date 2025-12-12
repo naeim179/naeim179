@@ -79,6 +79,9 @@ I constantly learn and strive to improve my skills in cybersecurity and digital 
 - 
 ---
 ```txt
+<p align="center">
+  <img src="assets/pixel-guitar-hacker.svg" width="420" alt="8-bit pixel guitarist with binary trail" />
+</p>
 
 
 
