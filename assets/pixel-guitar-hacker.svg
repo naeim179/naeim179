@@ -98,7 +98,7 @@
   <text class="tag" x="408" y="132">:: blue_team</text>
 
   <!-- pixel character + (blue) guitar -->
-  <g class="float" transform="translate(520 90) scale(3)">
+  <g class="float" transform="translate(520 120) scale(3)">
     <!-- hood frame -->
     <rect class="px" x="6" y="0" width="12" height="10" fill="#070a10"/>
     <rect class="px" x="7" y="1" width="10" height="8" fill="#2a3447"/>
