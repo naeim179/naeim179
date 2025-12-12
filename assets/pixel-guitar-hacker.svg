@@ -26,12 +26,26 @@
       .tag{font:12px ui-monospace,monospace;fill:#6fe7ff;filter:url(#glow)}
       .bit{font:18px ui-monospace,monospace;fill:#6fe7ff;filter:url(#glow)}
       .px{shape-rendering:crispEdges}
+
       .float{animation:floaty 2.7s ease-in-out infinite}
       .strum{animation:strum .34s steps(2) infinite}
       .blink{animation:blink 1.6s steps(2) infinite}
+
       @keyframes floaty{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
       @keyframes strum{0%{transform:translateY(0)}50%{transform:translateY(4px)}100%{transform:translateY(0)}}
       @keyframes blink{0%,70%{opacity:1}71%,100%{opacity:.25}}
+
+      .b1{animation:rise1 1.15s linear infinite}
+      .b2{animation:rise2 1.35s linear infinite}
+      .b3{animation:rise3 1.05s linear infinite}
+      .b4{animation:rise4 1.45s linear infinite}
+      .b5{animation:rise5 1.25s linear infinite}
+
+      @keyframes rise1{0%{transform:translate(0,0);opacity:0}12%{opacity:1}100%{transform:translate(0,-120px);opacity:0}}
+      @keyframes rise2{0%{transform:translate(0,0);opacity:0}10%{opacity:1}100%{transform:translate(-16px,-132px);opacity:0}}
+      @keyframes rise3{0%{transform:translate(0,0);opacity:0}10%{opacity:1}100%{transform:translate(14px,-112px);opacity:0}}
+      @keyframes rise4{0%{transform:translate(0,0);opacity:0}10%{opacity:1}100%{transform:translate(-6px,-140px);opacity:0}}
+      @keyframes rise5{0%{transform:translate(0,0);opacity:0}10%{opacity:1}100%{transform:translate(10px,-126px);opacity:0}}
     </style>
   </defs>
 
@@ -75,10 +89,12 @@
     </g>
   </g>
 
+  <!-- BINARY -->
   <g transform="translate(770 210)">
-    <text class="bit" x="0" y="0">0</text>
-    <text class="bit" x="18" y="10">1</text>
-    <text class="bit" x="36" y="0">0</text>
-    <text class="bit" x="54" y="12">1</text>
+    <text class="bit b1" x="0"  y="0">0</text>
+    <text class="bit b2" x="20" y="10">1</text>
+    <text class="bit b3" x="42" y="2">0</text>
+    <text class="bit b4" x="64" y="14">1</text>
+    <text class="bit b5" x="86" y="6">0</text>
   </g>
 </svg>
