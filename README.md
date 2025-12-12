@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/special-guitar.svg" width="900" alt="Pixel guitarist emitting 0/1" />
+</p>
 
 <h1 align="center">Ναιμός Μαχητής — Naeem Althabata</h1>
 
