@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/naeim179/naeim179/master/assets/pixel-guitar-hacker.svg" width="900" alt="naeim179 banner" />
 </p>
-## 🧠 About Me
-I’m a Cyber Security enthusiast focused on **Reverse Engineering** and **Blue Team operations**.  
-I enjoy breaking binaries, understanding how malware works, and defending systems from real-world attacks.
 
 <h1 align="center">naeim179</h1>
 
@@ -27,52 +24,58 @@ I enjoy breaking binaries, understanding how malware works, and defending system
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CYBERSECURITY-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REVERSE_ENGINEERING-1D4ED8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BLUE_TEAM-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LEARNING_EVERY_DAY-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-1D4ED8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blue%20Team-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mindset-Never%20Give%20Up-22C55E?style=for-the-badge" />
 </p>
-
-<br/>
-
-<h2 align="center">Welcome On My Profile</h2>
 
 ---
 
-## About Me
+## 🧠 About Me
+I’m a Cyber Security enthusiast focused on **Reverse Engineering** and **Blue Team operations**.  
+I enjoy breaking binaries, understanding how malware works, and defending systems from real-world attacks.
 
-- 🔍 Interested in **Reverse Engineering** (malware analysis, unpacking, static & dynamic analysis)
+- 🔍 Interested in **Reverse Engineering** (unpacking, static & dynamic analysis)
 - 🛡️ Focused on **Blue Team** (detection, log analysis, incident response)
 - ⚙️ Love building small tools/scripts to automate analysis
 - 📚 Always learning: Windows internals, networking, and threat hunting
 
 ---
 
-## Technology Stack
+## 🛠 Skills
+- Reverse Engineering (x64, PE basics)
+- Static & Dynamic Analysis
+- Windows / Linux fundamentals
+- Networking fundamentals
+- Detection & Monitoring (Blue Team mindset)
+
+---
+
+## 🧪 Labs & Platforms
+- TryHackMe
+- Hack The Box
+- CrackMe challenges
+- Malware analysis labs
+
+---
+
+## 🧰 Tools I Use
+- 🧩 Ghidra / IDA / x64dbg (Reverse Engineering)
+- 🧪 Wireshark / Sysmon / Event Viewer
+- 🧾 YARA (rules), Sigma (detections)
+
+---
+
+## 🧩 Technology Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,cpp,linux,bash,git,github,regex,vscode" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
 ---
 
-## Tools I Use
-
-<p>
-  <img src="https://skillicons.dev/icons?i=github,vscode,linux" />
-</p>
-
-- 🧰 Ghidra / IDA / x64dbg (Reverse Engineering)
-- 🧪 Wireshark / Sysmon / Event Viewer
-- 📝 YARA (rules), Sigma (detections)
-
----
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naeim179&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -84,15 +87,7 @@ I enjoy breaking binaries, understanding how malware works, and defending system
 
 ---
 
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naeim179&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## Visitor Counter
+## 👀 Visitor Counter
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=naeim179&style=for-the-badge&color=0ea5e9" />
@@ -101,5 +96,5 @@ I enjoy breaking binaries, understanding how malware works, and defending system
 ---
 
 <p align="center">
-  <sub>“Never give up — keep reversing, keep learning.”</sub>
+  <sub>“Understand how things break, so you know how to defend them.”</sub>
 </p>
