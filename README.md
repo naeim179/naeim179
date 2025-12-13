@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/naeim179/naeim179/master/assets/pixel-guitar-hacker.svg" width="900" alt="naeim179 banner" />
 </p>
+## 🧠 About Me
+I’m a Cyber Security enthusiast focused on **Reverse Engineering** and **Blue Team operations**.  
+I enjoy breaking binaries, understanding how malware works, and defending systems from real-world attacks.
 
 <h1 align="center">naeim179</h1>
 
