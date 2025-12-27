@@ -85,14 +85,15 @@ I enjoy analyzing binaries, understanding how malware behaves, and improving my 
 </p>
 
 ---
-
 ## 📊 GitHub Stats
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naeim179&theme=tokyonight" />
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naeim179&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naeim179&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naeim179&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naeim179&theme=tokyonight" />
 </p>
 
 ---
@@ -103,13 +104,4 @@ I enjoy analyzing binaries, understanding how malware behaves, and improving my 
 
 <p align="center">
   <sub>“Understand how things break, so you can help defend them.”</sub>
-</p>
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naeim179&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naeim179&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naeim179&theme=tokyonight" />
 </p>
