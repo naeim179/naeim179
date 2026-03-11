@@ -35,7 +35,7 @@
 ## 👋 About Me
 
 <p align="center">
-  <img src="./assets/about-me.jpg" width="560" alt="About Me" />
+  <img src="./assets/about-me.jpg" width="440" alt="About Me" />
 </p>
 
 I'm a student passionate about cybersecurity and always eager to learn more about the field.  
