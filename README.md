@@ -35,7 +35,7 @@
 ## 👋 About Me
 
 <p align="center">
-  <img src="./assets/about-me.jpg" width="700" alt="About Me" />
+  <img src="./assets/about-me.jpg" width="560" alt="About Me" />
 </p>
 
 I'm a student passionate about cybersecurity and always eager to learn more about the field.  
@@ -50,7 +50,7 @@ I enjoy learning through practice, building projects, and exploring different ar
 ## 🧩 Reverse Engineering
 
 <p align="center">
-  <img src="./assets/reverse-engineering.gif" width="700" alt="Reverse Engineering" />
+  <img src="./assets/reverse-engineering.gif" width="560" alt="Reverse Engineering" />
 </p>
 
 Reverse engineering is one of the areas I enjoy the most.  
@@ -65,7 +65,7 @@ I like understanding how software works internally, analyzing binaries, and lear
 ## 🚀 Cyber Projects
 
 <p align="center">
-  <img src="./assets/cyber-projects.gif" width="700" alt="Cyber Projects" />
+  <img src="./assets/cyber-projects.gif" width="560" alt="Cyber Projects" />
 </p>
 
 I enjoy building cybersecurity projects that help me learn by doing.  
@@ -80,7 +80,7 @@ I’m currently working on a **QR Security** project and using hands-on work to 
 ## 🛡 SOC Path
 
 <p align="center">
-  <img src="./assets/soc-path.gif" width="700" alt="SOC Path" />
+  <img src="./assets/soc-path.gif" width="560" alt="SOC Path" />
 </p>
 
 I’m currently studying and working toward a future role in the **SOC** field.  
@@ -95,7 +95,7 @@ I’m especially interested in monitoring, analysis, blue team thinking, and und
 ## 🔍 Cybersecurity Interests
 
 <p align="center">
-  <img src="./assets/cyber-interests.gif" width="700" alt="Cybersecurity Interests" />
+  <img src="./assets/cyber-interests.gif" width="560" alt="Cybersecurity Interests" />
 </p>
 
 I’m interested in many areas across the cybersecurity world.  
