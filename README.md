@@ -50,7 +50,7 @@ I enjoy learning through practice, building projects, and exploring different ar
 ## 🧩 Reverse Engineering
 
 <p align="center">
-  <img src="./assets/reverse-engineering.gif" width="560" alt="Reverse Engineering" />
+  <img src="./assets/reverse-engineering.gif" width="500" alt="Reverse Engineering" />
 </p>
 
 Reverse engineering is one of the areas I enjoy the most.  
@@ -65,7 +65,7 @@ I like understanding how software works internally, analyzing binaries, and lear
 ## 🚀 Cyber Projects
 
 <p align="center">
-  <img src="./assets/a091b421aa7a9e5cb03b95c37819d421.gif" width="560" alt="Cyber Projects" />
+  <img src="./assets/a091b421aa7a9e5cb03b95c37819d421.gif" width="500" alt="Cyber Projects" />
 </p>
 
 I enjoy building cybersecurity projects that help me learn by doing.  
@@ -80,7 +80,7 @@ I’m currently working on a **QR Security** project and using hands-on work to 
 ## 🛡 SOC Path
 
 <p align="center">
-  <img src="./assets/socpath.gif" width="560" alt="SOC Path" />
+  <img src="./assets/socpath.gif" width="500" alt="SOC Path" />
 </p>
 
 I’m currently studying and working toward a future role in the **SOC** field.  
