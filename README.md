@@ -1,171 +1,82 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naeim179/naeim179/master/assets/pixel-guitar-hacker.svg" width="900" alt="naeim179 banner" />
+  <img src="https://raw.githubusercontent.com/naeim179/naeim179/main/assets/pixel-guitar-hacker.svg" width="900" alt="Naim’s pixel-art banner: reverse engineering and blue team practice" />
 </p>
 
-<h1 align="center">Naeem Althabata (naeim179)</h1>
+# Naim Althabatah
 
-<p align="center">
-  Reverse Engineering • Cybersecurity Projects • Future SOC Analyst
-</p>
+**Cybersecurity student · Freelance full-stack developer · AWS Certified Cloud Practitioner**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/naeim-althabata-427331316/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:naeemmohmd8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/naeim179">
-    <img src="https://img.shields.io/github/followers/naeim179?style=for-the-badge&logo=github&label=Followers" />
-  </a>
-  <a href="https://github.com/naeim179?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-View-111827?style=for-the-badge&logo=github" />
-  </a>
-</p>
+[Portfolio](https://naim-workspace.vercel.app) · [CTF writeups](https://naim-workspace.vercel.app/writeups) · [LinkedIn](https://www.linkedin.com/in/naim-althabatah-427331316) · [TryHackMe](https://tryhackme.com/p/NK179) · [Email](mailto:naim.althabata@gmail.com)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Reverse%20Engineering-1D4ED8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Cyber%20Projects-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Goal-SOC-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mindset-Always%20Learning-22C55E?style=for-the-badge" />
-</p>
+I build web applications and investigate how software works. My work combines freelance full-stack development, reverse-engineering challenges, and hands-on security labs. I document the reasoning, source material, and verification limits behind my projects and writeups.
 
----
+- Studying **BSc Cybersecurity at Al al-Bayt University**, Jordan; expected completion December 2026.
+- Freelance experience integrating learning workflows, backend services, cloud deployment, and payments for an educational platform.
+- Developing practical skills in **SOC analysis, detection, and incident investigation** through controlled labs and training.
 
-## 👋 About Me
+## Selected work
 
-<p align="center">
-  <img src="./assets/about-me.jpg" width="400" alt="About Me" />
-</p>
+### Your Way Academy
 
-I'm a student passionate about cybersecurity and always eager to learn more about the field.  
-I enjoy learning through practice, building projects, and exploring different areas of cyber with a strong interest in growth and consistency.
+Freelance full-stack work on an educational platform, integrating learning workflows with backend, cloud, and payment services. **Next.js · TypeScript · Supabase · Cloudflare · PayTabs**.
 
-- Cybersecurity student
-- Practical learner
-- Building skills step by step
+[Case study](https://naim-workspace.vercel.app/work/educational-platform) · [Repository](https://github.com/naeim179/edc_website)
 
----
+### QRShield
 
-## 🧩 Reverse Engineering
+QR payload analysis and risk explanations, with a **Python/FastAPI** backend supporting URLs, SMS, Wi-Fi, contact cards, and other payload types.
 
-<p align="center">
-  <img src="./assets/reverse-engineering.gif" width="500" alt="Reverse Engineering" />
-</p>
+[Case study](https://naim-workspace.vercel.app/work/qrshield) · [Repository](https://github.com/naeim179/qrshilde)
 
-Reverse engineering is one of the areas I enjoy the most.  
-I like understanding how software works internally, analyzing binaries, and learning how execution flow, functions, and low-level behavior connect together.
+### Portfolio & CTF library
 
-- Learning RE fundamentals
-- Exploring binaries and control flow
-- Improving analysis through practice
+A **Next.js** portfolio and searchable technical writeup library, with original solution files, evidence, and competition results.
 
----
+[Website](https://naim-workspace.vercel.app) · [Source & writeups](https://github.com/naeim179/naeem_web)
 
-## 🚀 Cyber Projects
+## Security practice
 
-<p align="center">
-  <img src="./assets/a091b421aa7a9e5cb03b95c37819d421.gif" width="500" alt="Cyber Projects" />
-</p>
+- **Reverse engineering:** .NET IL, byte transformations, custom virtual machines, and Python reconstruction. Recent casefiles include [Ending](https://naim-workspace.vercel.app/writeups/tvx-ending), [Summer Is Over](https://naim-workspace.vercel.app/writeups/tvx-summer-is-over), and [Reliability Update](https://naim-workspace.vercel.app/writeups/metactf-reliability-update).
+- **Blue team labs:** Correlating Apache logs, shell history, and Wazuh alerts; building investigation timelines and testing basic detection rules. [Attack & Defense Lab](https://naim-workspace.vercel.app/work/attack-defense-lab) · [Wazuh lab report](https://naim-workspace.vercel.app/reports/wazuh-lab).
+- **Forensics and analysis:** Traffic inspection, alert triage, indicators of compromise, and documented investigation steps. [Phishing investigation](https://naim-workspace.vercel.app/reports/phishing-investigation).
 
-I enjoy building cybersecurity projects that help me learn by doing.  
-I’m currently working on a **QR Security** project and using hands-on work to strengthen my technical understanding.
+[Browse all writeups](https://naim-workspace.vercel.app/writeups) · [Browse the canonical writeup sources](https://github.com/naeim179/naeem_web/tree/main/content/writeups)
 
-- Building practical cyber projects
-- Currently working on **QR Security**
-- Learning through implementation and testing
+## Competition highlights
 
----
+- **MetaCTF — Princess Sumaya University for Technology:** Qualified for the finals and achieved **22nd place in the finals**. Team score: **1,102 points**; **752 personal points**.
+- **TVX CTF — IV LEGION:** **31st place, final result**. Team score: **2,110 points**; **team captain**.
 
-## 🛡 SOC Path
+[Competition experience and results](https://naim-workspace.vercel.app/legacy)
 
-<p align="center">
-  <img src="./assets/socpath.gif" width="500" alt="SOC Path" />
-</p>
+## Skills I use
 
-I’m currently studying and working toward a future role in the **SOC** field.  
-I’m especially interested in monitoring, analysis, blue team thinking, and understanding how defenders detect and respond to threats.
+| Area | Technologies and practice |
+| --- | --- |
+| Web development | TypeScript, React, Next.js, Supabase, Cloudflare, Git/GitHub |
+| Reverse engineering | Static analysis, .NET IL, bytecode emulation, Python |
+| Security labs | Linux/Kali, Wazuh, log analysis, Wireshark/TShark, Burp Suite, Nmap |
+| Foundations | Networking, AWS cloud fundamentals, Bash basics, OWASP Top 10 |
 
-- Future SOC goal
-- Blue team mindset
-- Detection and monitoring interest
+## Certifications & training
 
----
+- **AWS Certified Cloud Practitioner** — Amazon Web Services. Issued September 2026; valid through September 2029. [Credential details](https://naim-workspace.vercel.app/#credentials).
+- **Certified Associate Penetration Tester (CAPT)** — Hackviser. [Verify credential](https://hackviser.com/verify?id=HV-CAPT-2GIXVBEF).
 
-## 🔍 Cybersecurity Interests
+<details>
+<summary>Additional training</summary>
 
-<p align="center">
-  <img src="./assets/cyber-interests.gif" width="560" alt="Cybersecurity Interests" />
-</p>
+- Masar Cybersecurity Field Training — NCSCJO / Skidz Training; **200 hours over 8 weeks**.
+- Cyber Warriors training programs — National Cyber Security Center of Jordan.
+- Red Hat System Administration I & II — **RH124 / RH134 training**.
+- **CCNA training**, 60 hours; **CEH training**, 40 hours — The Hope International Company.
 
-I’m interested in many areas across the cybersecurity world.  
-What keeps me motivated is how broad this field is and how every topic opens the door to deeper learning.
+These entries describe completed training; they are separate from the certifications listed above. [Training and credential links](https://naim-workspace.vercel.app/#credentials).
 
-- Reverse Engineering
-- Blue Team fundamentals
-- SOC and detection
-- Malware behavior analysis
-- Labs, challenges, and hands-on learning
+</details>
 
----
+## Connect
 
-## 🛠 Core Skills (Practical)
+For development opportunities, security projects, or questions about my writeups:
 
-- Reverse Engineering fundamentals (static + basic dynamic analysis)
-- Linux CLI (daily usage) + Bash basics
-- Networking fundamentals (TCP/IP, ports, protocols)
-- Web security basics (common vulnerabilities in labs)
-- Intro forensics (PCAP, logs)
-
----
-
-## 🧪 Platforms & Practice
-
-- TryHackMe (CTFs & learning paths)
-- Boot2Root-style labs
-- CrackMe challenges
-- Malware analysis labs (beginner level)
-
-- TryHackMe: https://tryhackme.com/p/NK179
-- Portfolio: https://naeim179.github.io/naeem_web/
-
----
-
-## 🧰 Tools I Use (Basics)
-
-- 🧩 Ghidra (reverse engineering basics)
-- 🔎 Wireshark / tshark (traffic inspection)
-- 🪟 Sysmon / Event Viewer (Windows log viewing)
-- 🧾 YARA (learning rules)
-- 🧪 Sigma (learning detections)
-
----
-
-## 🧩 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,linux,bash,git,github,regex,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naeim179&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naeim179&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naeim179&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naeim179&style=for-the-badge&color=0ea5e9" />
-</p>
-
-<p align="center">
-  <sub>“Understand how things work, so you can help defend them.”</sub>
-</p>
+[naim.althabata@gmail.com](mailto:naim.althabata@gmail.com) · [LinkedIn](https://www.linkedin.com/in/naim-althabatah-427331316) · [Portfolio](https://naim-workspace.vercel.app)
